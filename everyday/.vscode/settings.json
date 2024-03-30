@@ -2,6 +2,14 @@
     "files.associations": {
         "string": "cpp",
         "iosfwd": "cpp",
-        "bitset": "cpp"
-    }
+        "bitset": "cpp",
+        "concepts": "cpp",
+        "ranges": "cpp",
+        "vector": "cpp",
+        "__config": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
